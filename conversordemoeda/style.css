@@ -3,6 +3,7 @@
 body {
   font-family: 'Poppins', sans-serif;
   text-align: center;
+  color: white;
   background-image: url("https://caelum-online-public.s3.amazonaws.com/assets-imersaodev/Background.png");
   background-color: #000000;
   background-size: cover;
