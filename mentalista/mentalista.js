@@ -7,10 +7,10 @@ while (tentativasRestantes > 0){
     if (chute == numeroSecreto) {
         alert(`Você acertou! com ${count} tentativas, e o número secreto era ${numeroSecreto} VOCÊ É INCRÍVEL`);
     } else if (chute > numeroSecreto) {
-        alert(`Você errou! O número secreto é menor que ${chute} e você já deu ${count} chutes e ainda tem ${tentativasRestantes-1} tentativas, você consegue minha amada!`);
+        alert(`Você errou! O número secreto é menor que ${chute}, você já deu ${count} chutes e ainda tem ${tentativasRestantes-1} tentativas, você consegue minha amada!`);
         
     } else if (chute < numeroSecreto) {
-       alert(`Foi quase! O número secreto é maior que ${chute} e você já deu ${count} chutes e ainda tem ${tentativasRestantes-1} tentativas, você consegue minha amada!`);
+       alert(`Foi quase! O número secreto é maior que ${chute}, você já deu ${count} chutes e ainda tem ${tentativasRestantes-1} tentativas, você consegue minha amada!`);
     }
 
     count = count + 1;
