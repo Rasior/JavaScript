@@ -26,22 +26,3 @@ body {
   color: #ffffff;
   margin-top: 5px;
 }
-
-.page-logo {
-  width: 200px;
-}
-
-.alura-logo {
-  width: 40px;
-  position: absolute;
-  top: 10px;
-  right: 10px;
-}
-
-body > img {
-  margin: 0 10px;
-}
-
-img {
-  max-height: 250px;
-}

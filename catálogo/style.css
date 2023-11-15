@@ -3,12 +3,11 @@
 body {
     font-family: 'Poppins', sans-serif;
     text-align: center;
-    background-image: url("https://caelum-online-public.s3.amazonaws.com/assets-imersaodev/background_mentalista.png");
+    background-image: url("https://caelum-online-public.s3.amazonaws.com/assets-imersaodev/background-aluraflix.png");
     background-color: #000000;
     background-size: cover;
     background-position: center top;
     background-repeat: no-repeat;
-    height: 100vh;
   }
   
 .container {
